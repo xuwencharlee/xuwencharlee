@@ -15,15 +15,15 @@
 
 ## 🪐 About Me
 
-> 🌼 You can call me <b>Quiana Rue</b> or <b>Rue</b>. I’m an introverted yet passionate <b>Front-end Developer</b> who enjoys learning new technologies and sharing markdown-based knowledge.
+> 🌼 You can call me <b>Lee</b> . I’m an introverted yet passionate <b>Front-end Developer</b> who enjoys learning new technologies and sharing markdown-based knowledge.
 
 ```yaml
 🎂 Birth: 1999.11
 🌏 Location: Changsha, China
-🎓 Degree: Bachelor (Non-985 / Non-211)
-💼 Experience: 2 years in Front-end development
-🏙️ 2020–2022: Front-end Engineer in Beijing
-📫 Email: mangoru446@gmail.com
+🎓 Degree: Bachelor (985)
+💼 Experience: 4 years in Front-end development
+🏙️ 2021–Nowadays: Front-end Engineer in Changsha
+📫 Email: xuwencharlee@gmail.com
 ```
 
 > 🕶️ Traits: Night owl · Workaholic · Strong under pressure · Team player  
@@ -50,9 +50,6 @@ Version Control: GitHub · GitLab · Gitea · Gitee
 
 ---
 
-## 🗂️ Featured Projects
-
-### 🔭 [MangoRu 空间站](https://mangoru.site)
 
 > A personal knowledge base and blog — recording my thoughts, notes, and coding experiments.
 
@@ -66,19 +63,7 @@ Version Control: GitHub · GitLab · Gitea · Gitee
 ## 💡 Current Status
 
 > ⚪ Looking for a new <b>Front-end Developer position</b>.  
-> 💌 If you have opportunities, please reach me via: [mangoru446@gmail.com](mailto:mangoru446@gmail.com)
-
----
-
-## 🔍 Find Me
-
-| Platform        | Link                                                 |
-| --------------- | ---------------------------------------------------- |
-| 🐙 GitHub        | [@MangoRu](https://github.com/MangoRu)               |
-| 🌐 Personal Site | [mangoru.site](https://mangoru.site)                 |
-| 🧾 Yuque         | [Mango](https://www.yuque.com)                       |
-| 💬 CSDN          | [Little-BingoQ](https://blog.csdn.net/Little-BingoQ) |
-| 🧱 Gitea         | [@MangoRu](https://gitea.com/MangoRu)                |
+> 💌 If you have opportunities, please reach me via: [xuwencharlee@gmail.com](mailto:xuwencharlee@gmail.com)
 
 ---
 
